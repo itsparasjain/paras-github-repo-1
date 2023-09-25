@@ -7,9 +7,9 @@ terraform {
     }
   }
   cloud {
-    organization = "CloudQuickLabs"
+    organization = "paras-github-org-sea"
     workspaces {
-      name = "AzureLabs"
+      name = "paras-github-workspace-1"
     }
   }
 }

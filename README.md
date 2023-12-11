@@ -1,3 +1,10 @@
+# Azure Kubernetes Service
+
+[![Changelog](https://img.shields.io/badge/changelog-release-green.svg)](CHANGELOG.md) [![Notice](https://img.shields.io/badge/notice-copyright-yellow.svg)](NOTICE) [![Apache V2 License](https://img.shields.io/badge/license-Apache%20V2-orange.svg)](LICENSE) [![TF Registry](https://img.shields.io/badge/terraform-registry-blue.svg)](https://registry.terraform.io/modules/claranet/aci/azurerm/)
+
+This module creates an Azure Kubernetes Service with diagnostic settings enabled.
+
+
 ## Requirements
 
 | Name | Version |
